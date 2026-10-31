@@ -1,0 +1,14 @@
+[
+  {
+    "first_name": "Aarav",
+    "last_name": "Sharma",
+    "email": "aarav.sharma@example.test",
+    "date_of_birth": "1995-08-15",
+    "date_of_joining": "01/06/2021",
+    "phone": "9876543210",
+    "country": "India",
+    "title": "Dr.",
+    "phone_code": "+91",
+    "communication": "email"
+  }
+]

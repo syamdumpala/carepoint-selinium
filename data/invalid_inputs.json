@@ -1,0 +1,6 @@
+{
+  "invalid_email": "not-an-email",
+  "invalid_joining_date": "2021-06-01",
+  "invalid_phone": "abc",
+  "short_phone": "123"
+}

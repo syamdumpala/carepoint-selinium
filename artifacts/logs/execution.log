@@ -1,0 +1,307 @@
+2026-10-25 13:00:51,142 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:01:12,358 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:01:13,600 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:01:13,842 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:01:25,599 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:01:41,249 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:01:42,374 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:01:42,586 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:01:51,328 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:02:05,195 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:02:06,090 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:02:06,323 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:02:17,260 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:02:29,252 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:02:30,102 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:02:30,282 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:02:37,852 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:02:45,528 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:02:45,832 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:02:45,903 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:02:50,202 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:02:57,920 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:02:58,409 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:02:58,522 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:03:03,530 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:03:13,267 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:03:14,015 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:03:14,153 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:03:20,882 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:03:27,660 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:03:27,731 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:03:32,128 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:03:39,519 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:03:39,827 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:03:39,909 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:03:57,515 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:04:05,080 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:04:05,610 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:04:05,724 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:04:13,949 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:04:20,297 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:04:21,285 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-phone"], #forms-comm-phone')
+2026-10-25 13:04:28,954 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:04:41,094 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:04:46,225 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:04:46,343 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:05:50,749 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:06:06,868 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:06:07,870 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:06:08,483 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:06:18,103 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:06:36,013 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:06:37,047 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:06:37,296 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:06:47,313 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:06:59,849 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:07:00,557 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:07:00,702 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:07:07,926 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:07:19,211 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:07:19,772 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:07:19,915 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:07:26,873 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:07:36,757 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:10:14,321 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:10:15,390 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:10:40,422 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:10:42,070 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:10:42,275 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:10:42,356 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:10:43,266 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:10:43,437 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:10:54,096 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:11:11,110 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:11:22,040 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:11:23,856 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:11:24,854 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:11:35,320 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:11:35,860 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:11:36,015 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:11:43,918 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:11:47,410 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:12:05,296 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:12:05,794 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:12:05,880 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:12:06,199 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:12:06,530 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:12:06,894 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:37:26,632 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:37:27,843 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:50:36,161 ERROR carepoint.diagnostics Could not capture failure screenshot for tests/test_carepoint_form.py::test_required_field_validation[phone]
+Traceback (most recent call last):
+  File "C:\Users\syamd\OneDrive\Desktop\CARE POINT SELINIUM\conftest.py", line 83, in pytest_runtest_makereport
+    browser_driver.save_screenshot(str(SCREENSHOTS / f"{name}_{timestamp}.png"))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 990, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 967, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 998, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 1008, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff7e0a8e745]
+	(No symbol) [0x7ff7e0643d00]
+	(No symbol) [0x7ff7e0473d36]
+	(No symbol) [0x7ff7e04c0563]
+	(No symbol) [0x7ff7e04f89e2]
+	(No symbol) [0x7ff7e04f27a2]
+	(No symbol) [0x7ff7e04f1f23]
+	(No symbol) [0x7ff7e043c8eb]
+	(No symbol) [0x7ff7e043cf52]
+	(No symbol) [0x7ff7e043d585]
+	(No symbol) [0x7ff7e0b317b1]
+	(No symbol) [0x7ff7e0b687c7]
+	(No symbol) [0x7ff7e0b5c85e]
+	(No symbol) [0x7ff7e080884e]
+	(No symbol) [0x7ff7e0650415]
+	(No symbol) [0x7ff7e043bd1e]
+	(No symbol) [0x7ff7e0be4cff]
+	(No symbol) [0x7ffc0337dda7]
+	(No symbol) [0x7ffc04c7ee4c]
+
+2026-10-25 13:50:44,244 ERROR carepoint.diagnostics Could not capture failure screenshot for tests/test_carepoint_form.py::test_missing_communication_preference_is_rejected
+Traceback (most recent call last):
+  File "C:\Users\syamd\OneDrive\Desktop\CARE POINT SELINIUM\conftest.py", line 83, in pytest_runtest_makereport
+    browser_driver.save_screenshot(str(SCREENSHOTS / f"{name}_{timestamp}.png"))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 990, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 967, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 998, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 1008, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff7e0a8e745]
+	(No symbol) [0x7ff7e0643d00]
+	(No symbol) [0x7ff7e0473d36]
+	(No symbol) [0x7ff7e04c0563]
+	(No symbol) [0x7ff7e04f89e2]
+	(No symbol) [0x7ff7e04f27a2]
+	(No symbol) [0x7ff7e04f1f23]
+	(No symbol) [0x7ff7e043c8eb]
+	(No symbol) [0x7ff7e043cf52]
+	(No symbol) [0x7ff7e043d585]
+	(No symbol) [0x7ff7e0b317b1]
+	(No symbol) [0x7ff7e0b687c7]
+	(No symbol) [0x7ff7e0b5c85e]
+	(No symbol) [0x7ff7e080884e]
+	(No symbol) [0x7ff7e0650415]
+	(No symbol) [0x7ff7e043bd1e]
+	(No symbol) [0x7ff7e0be4cff]
+	(No symbol) [0x7ffc0337dda7]
+	(No symbol) [0x7ffc04c7ee4c]
+
+2026-10-25 13:50:48,793 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:50:56,360 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:51:09,709 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:51:09,981 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:51:10,744 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:51:10,890 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:51:10,955 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:51:11,108 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:51:48,882 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:51:57,742 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:51:59,582 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-phone"], #forms-comm-phone')
+2026-10-25 13:52:08,781 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:52:15,774 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:52:15,922 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:53:46,853 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:54:01,350 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:54:02,286 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:54:02,462 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:54:13,776 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:54:39,960 ERROR carepoint.diagnostics Could not capture failure screenshot for tests/test_carepoint_form.py::test_missing_communication_preference_is_rejected
+Traceback (most recent call last):
+  File "C:\Users\syamd\OneDrive\Desktop\CARE POINT SELINIUM\conftest.py", line 83, in pytest_runtest_makereport
+    browser_driver.save_screenshot(str(SCREENSHOTS / f"{name}_{timestamp}.png"))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 990, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 967, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 998, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 1008, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\syamd\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff7ed16e745]
+	(No symbol) [0x7ff7ecd23d00]
+	(No symbol) [0x7ff7ecb53d36]
+	(No symbol) [0x7ff7ecba0563]
+	(No symbol) [0x7ff7ecbd89e2]
+	(No symbol) [0x7ff7ecbd27a2]
+	(No symbol) [0x7ff7ecbd1f23]
+	(No symbol) [0x7ff7ecb1c8eb]
+	(No symbol) [0x7ff7ecb1cf52]
+	(No symbol) [0x7ff7ecb1d585]
+	(No symbol) [0x7ff7ed2117b1]
+	(No symbol) [0x7ff7ed2487c7]
+	(No symbol) [0x7ff7ed23c85e]
+	(No symbol) [0x7ff7ecee884e]
+	(No symbol) [0x7ff7ecd30415]
+	(No symbol) [0x7ff7ecb1bd1e]
+	(No symbol) [0x7ff7ed2c4cff]
+	(No symbol) [0x7ffc0337dda7]
+	(No symbol) [0x7ffc04c7ee4c]
+
+2026-10-25 13:54:49,970 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:55:07,454 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:55:08,234 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:55:08,400 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:55:35,088 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:55:47,516 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:55:48,362 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:55:48,587 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:57:29,184 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:57:40,800 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:57:41,578 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:57:41,738 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 13:58:04,700 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 13:58:17,809 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 13:58:18,634 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 13:58:18,763 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:00:08,837 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:00:27,957 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:00:29,194 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:00:29,515 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:01:44,732 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:02:19,212 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:02:20,226 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:02:20,445 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:02:34,302 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:02:58,649 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:02:59,897 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:03:00,404 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:03:11,744 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:03:38,875 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:03:39,861 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:03:40,030 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:03:56,858 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:04:10,520 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:04:11,383 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:04:11,563 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:04:23,608 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:04:44,553 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:04:45,383 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:04:45,550 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:04:54,174 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:05:10,665 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:05:11,752 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:05:11,955 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:05:23,026 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:05:36,011 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:05:36,528 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:05:36,658 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:05:43,652 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:05:54,237 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:05:54,379 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:06:01,069 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:06:14,027 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:06:14,833 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:06:15,006 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:06:22,613 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:06:34,943 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:06:35,600 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:06:35,760 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
+2026-10-25 14:06:43,932 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:06:48,134 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:06:48,891 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-phone"], #forms-comm-phone')
+2026-10-25 14:06:56,909 INFO CarePointFormPage Opening CarePoint form: https://www.qapractice.com/practice-forms
+2026-10-25 14:07:07,275 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-comm-email"], #forms-comm-email')
+2026-10-25 14:07:11,817 INFO CarePointFormPage Submitting CarePoint form
+2026-10-25 14:07:11,923 INFO CarePointFormPage Clicking ('css selector', '[data-testid="forms-submit"], #forms-submit')
